@@ -1,23 +1,17 @@
-# Решатель квадратных уравнений
+# Quadratic equations solver
 
-[TODO. Здесь будет описание проекта]
+Function quadratic_equation return quadratic equations using variables a, b и с. If equations have no solutions - return None.
 
-# Как использовать
-
-[TODO. Здесь будет описание программного интерфейса: функции, их аргументы, формат ответа. Нужен пример кода демонстрирующий импорт модуля и использование функции.]
-
-# Как запустить
-
-Скрипт требует для своей работы установленного интерпретатора Python версии 3.5
-
-Запуск на Linux:
+# How to launch
 
 ```bash
-python tests.py # может понадобиться вызов python3 вместо python, зависит от настроек операционной системы
+
+$ python tests.py # possibly requires call of python3 executive instead of just python
+
 ```
 
-Запуск на Windows происходит аналогично.
+The same with Windows environment;
 
-# Цели проекта
+# Project objectives
 
-Код создан в учебных целях. В рамках учебного курса по веб-разработке ― [DEVMAN.org](https://devman.org)
+The script created for training purposes as part of web development online course - [DEVMAN.org](https://devman.org);
