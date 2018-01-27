@@ -16,7 +16,7 @@ from quadratic_equation import get_roots
 get_roots(a, b, c)
 ```
 
-# How to launch test
+# How to launch the test
 
 ```bash
 
