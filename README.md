@@ -9,7 +9,7 @@ Function quadratic_equation return quadratic equations using variables a, b Ð¸ Ñ
 
 # How to use
 
-```bash
+```python
 # import function
 from quadratic_equation import get_roots
 # call it using variables
